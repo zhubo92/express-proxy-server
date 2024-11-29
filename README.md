@@ -6,14 +6,14 @@
 此方法与 Nginx 反向代理同理。
 
 ```shell
-  nvm use $(Get-Content .nvmrc)
+nvm use $(Get-Content .nvmrc)
 ```
 
 ```shell
-  npm install
+npm install
 ```
 
 ```shell
-  npm run start
+npm run start
 ```
 
